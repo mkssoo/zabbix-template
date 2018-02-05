@@ -1,0 +1,2 @@
+# zabbix-template
+zabbix-template
